@@ -1,0 +1,14 @@
+
+#media_container,
+#desktop-top-banners,
+#google_image_div,
+.top_boxes_row,
+.feed_aside,
+.dfp_v2,
+.dfp-slot-container,
+.y1_right_side,
+.side_items2
+{
+    display: none;
+}
+
